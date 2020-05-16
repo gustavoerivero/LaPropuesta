@@ -23,6 +23,7 @@ Una aplicación de escritorio para que hagas esa propuesta a la chica de la que 
 ## Instrucciones:
 
 * Las explicaciones para el código están en forma de comentario en el mismo proyecto.
+* Si no se va realizar ningún cambio y desea utilizar esta aplicación tal como está, deberías mirar [aquí](https://github.com/gustavoerivero/LaPropuesta/tree/master/dist).
 
 ## Autor
 
