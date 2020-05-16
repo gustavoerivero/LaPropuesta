@@ -23,6 +23,7 @@ A desktop application for you to make the engagement proposal to that girl with 
 ## Instructions:
 
 * Explanations for the code are in the form of comments in the same project.
+* If you do not make any changes and want to use this application as it is, you should look [here](https://github.com/gustavoerivero/LaPropuesta/tree/master/dist).
 
 ## Author
 
