@@ -20,7 +20,7 @@ Una aplicación de escritorio para que hagas esa propuesta a la chica de la que 
 
 * [NetBeans 8.2 IDE](https://netbeans.org/downloads/8.2/rc/) - El IDE utilizado para realizar esta aplicación.
 
-## Instructions:
+## Instrucciones:
 
 * Las explicaciones para el código están en forma de comentario en el mismo proyecto.
 
